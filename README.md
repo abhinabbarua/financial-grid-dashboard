@@ -30,18 +30,18 @@ A full-stack web application for managing financial records. This dashboard feat
 
 ### 1. Start the Backend
 Open a terminal, navigate to the backend folder, install dependencies, and start the server:
-\`\`\`bash
-cd backend
-npm install
+\`\`\`bash \
+cd backend \
+npm install \
 node server.js
 \`\`\`
 *The server will run on http://localhost:5000*
 
 ### 2. Start the Frontend
 Open a second, separate terminal, navigate to the frontend folder, install dependencies, and start the React app:
-\`\`\`bash
-cd frontend
-npm install
+\`\`\`bash \
+cd frontend \
+npm install \
 npm run dev
 \`\`\`
 *The application will open in your browser (usually http://localhost:5173).*
