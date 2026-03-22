@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Company A",
+    "amount": 10000,
+    "category": "A",
+    "file": "uploads/1774165792205.pdf"
+  },
+  {
+    "id": 2,
+    "name": "Company B",
+    "amount": 5000,
+    "category": "C",
+    "file": "uploads/1774175454664.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Company C",
+    "amount": 4000,
+    "category": "C",
+    "file": "uploads/1774179480169.pdf"
+  },
+  {
+    "id": 4,
+    "name": "Company D",
+    "amount": 10000,
+    "category": "C",
+    "file": null
+  },
+  {
+    "id": 5,
+    "name": "Company E",
+    "amount": 3333,
+    "category": "C",
+    "file": null
+  }
+]
